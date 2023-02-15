@@ -109,8 +109,8 @@ def gen_layout(ftu_list,plot_types,labels):
                         ]
                     )
                 ])
-            ]),
-        ])
+            ],align='center'),
+        ],fluid=True)
     ])
 
 
